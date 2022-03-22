@@ -30,11 +30,76 @@ Es un diseño web que se adapta a todos los tamaños de las pantallas la cual se
 
 Este proyecto consiste en aprender a manejar el grid de bootstrap la cual esta  el trabajo consistia en hacer 6 maquetados en html, y cada uno debia tener su css dentro del html estaba el bootstrap para no usar tanto en el css :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
 
-**4. Maqueta 1 **
+**4. Maqueta 1**
 
 Elaborada por: Joel Bautista
 
 Realizado: 22/03/2022
 
 en esta se hicieron unas columnas de sm,md,lg
+
+![img](https://user-images.githubusercontent.com/101758506/159591438-9d36b07b-9d9a-47b7-a918-a7f81f222b42.png))
+![image](https://user-images.githubusercontent.com/101758506/159591803-6b4e018e-f092-4abf-8798-1898750b38c7.png)
+
+
+
+**5. Maqueta 2**
+
+Elaborada por: Joel Bautista
+
+Realizado: 22/03/2022
+
+en esta se hicieron unas columnas de xs,sm,md,lg,xl
+
+
+![image](https://user-images.githubusercontent.com/101758506/159592124-f8cdbe3c-34b3-4af8-8c1a-a936b4ce7669.png)
+![image](https://user-images.githubusercontent.com/101758506/159592167-1325da4e-9b1f-4b00-a073-abf687957d65.png)
+![image](https://user-images.githubusercontent.com/101758506/159592198-d34a9be7-9a6d-4e69-9cbf-e1297d451119.png)
+![image](https://user-images.githubusercontent.com/101758506/159592231-395b6dd0-ab29-4506-ba98-b9689da03067.png)
+![image](https://user-images.githubusercontent.com/101758506/159592258-45ac0f2f-d6f0-439a-8701-6968b6da17bc.png)
+
+
+**6. Maqueta 3**
+
+Elaborada por: Joel Bautista
+
+Realizado: 22/03/2022
+
+en esta se hicieron unas columnas de xs,sm,md,lg,xl
+![image](https://user-images.githubusercontent.com/101758506/159592398-2f37db22-2453-4bbe-8e36-0e3bb02bb55a.png)
+![image](https://user-images.githubusercontent.com/101758506/159592499-d88f2b8a-48fb-4be5-9731-9b3619a6660b.png)
+![image](https://user-images.githubusercontent.com/101758506/159592593-d5322392-6116-4690-97ce-d028684d509c.png)
+
+**6. Maqueta 4**
+
+Elaborada por: Joel Bautista
+
+Realizado: 22/03/2022
+
+en esta se hicieron unas columnas de xs,sm,md,lg,xl
+
+![image](https://user-images.githubusercontent.com/101758506/159593027-c5cc3c33-06df-4ab7-9e0b-f17871d19d89.png)
+![image](https://user-images.githubusercontent.com/101758506/159593075-3c8f4e8e-a2cd-42a0-9b7c-f80ea30cd8cb.png)
+![image](https://user-images.githubusercontent.com/101758506/159593225-96139ad7-e72e-42a9-8735-570eacf65f16.png)
+
+**7. Maqueta 5**
+
+Elaborada por: Joel Bautista
+
+Realizado: 22/03/2022
+
+en esta se hicieron unas columnas de xs,sm,md,lg,xl
+
+![image](https://user-images.githubusercontent.com/101758506/159593323-c34b8ae5-d97b-4050-96e5-337ad12b6098.png)
+![image](https://user-images.githubusercontent.com/101758506/159593379-f2bc6161-3eca-4b07-a375-9973865034fc.png)
+![image](https://user-images.githubusercontent.com/101758506/159593413-556b40fd-fcfe-4201-a088-790326bf5f27.png)
+
+**8. Maqueta 6**
+
+Elaborada por: Joel Bautista
+
+Realizado: 22/03/2022
+
+en esta se hicieron unas columnas de xs,sm,md,lg,xl
+
 
