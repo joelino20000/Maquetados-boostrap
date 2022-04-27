@@ -95,6 +95,11 @@ en esta se hicieron unas columnas de xs,sm,md,lg,xl
 ![image](https://user-images.githubusercontent.com/101758506/159593413-556b40fd-fcfe-4201-a088-790326bf5f27.png)
 
 **8. Maqueta 6**
+![image](https://user-images.githubusercontent.com/101758506/165417878-21982b03-a9c0-4ce9-9d78-fa1e1cab365b.png)
+
+![image](https://user-images.githubusercontent.com/101758506/165417970-01f42c2e-e167-4dc3-bb38-772f8228dfdf.png)
+
+![image](https://user-images.githubusercontent.com/101758506/165418043-b10da226-8864-4b4a-bd1c-5c7baaf942d0.png)
 
 Elaborada por: Joel Bautista
 
